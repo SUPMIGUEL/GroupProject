@@ -9,7 +9,6 @@
 #CONTENT = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore"
 require 'rubygems'
 require 'open-uri'
-require 'pry'
 #require 'curb'
 require 'nokogiri'
 
